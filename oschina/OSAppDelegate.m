@@ -10,7 +10,7 @@
 #import "AFNetworkActivityIndicatorManager.h"
 
 @implementation OSAppDelegate
-
+ 
 @synthesize window = _window;
 @synthesize tabBarController = _tabBarController;
 @synthesize settingView;
